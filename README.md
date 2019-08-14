@@ -4,7 +4,7 @@ This project was presented to the Digital Sign Processing Course at Information 
 #Stripe Method Results
 This method convolutes a striped pattern to the image to search for the Wally's t-shirt pattern. Some results are shown bellow.
 
-<img src="https://github.com/sergiopolimante/wheres-wally/tree/master/Resultados/github_images/resultado_listra" align="right" width="300"/>
+<img src="https://github.com/sergiopolimante/wheres-wally/blob/master/Resultados/github_images/resultado_listra.PNG" align="right" width="300"/>
 
 <img src="https://github.com/sergiopolimante/wheres-wally/tree/master/Resultados/github_images/resultado_listra1.PNG" align="right" width="300"/>
 
