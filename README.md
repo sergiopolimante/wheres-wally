@@ -1,5 +1,5 @@
 # Can convolution find Wally?
-This project was presented to the Digital Sign Processing Course at Information Engineering Graduate Program at UFABC. The Goal is to find Wally by convoluting known patterns with the puzzle image such as Wally’s striped t-shirt and Wally’s face and look for the high correlation areas with the patterns and the puzzle image.
+This project was presented to the Digital Sign Processing Course at Information Engineering Graduate Program at UFABC in August, 2018. The Goal is to find Wally by convoluting known patterns with the puzzle image such as Wally’s striped t-shirt and Wally’s face and look for the high correlation areas with the patterns and the puzzle image.
 
 # Stripe Method Results
 This method convolutes a striped pattern to the image to search for the Wally's t-shirt. Some results are shown bellow.
