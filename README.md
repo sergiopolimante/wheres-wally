@@ -13,7 +13,7 @@ This method convolutes a striped pattern to the image to search for the Wally's 
 <img src="https://github.com/sergiopolimante/wheres-wally/blob/master/Resultados/github_images/resultado_listra3.PNG" align="center" width="800"/>
 
 
-# Stripe Method Results
+# Face Method Results
 This method convolutes a face pattern to the image to search for the Wally's face. Some results are shown bellow.
 
 <img src="https://github.com/sergiopolimante/wheres-wally/blob/master/Resultados/github_images/resultado_rosto.PNG" align="center" width="800"/>
