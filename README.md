@@ -21,3 +21,4 @@ This method convolutes a face pattern to the image to search for the Wally's fac
 <img src="https://github.com/sergiopolimante/wheres-wally/blob/master/Resultados/github_images/resultado_rosto1.PNG" align="center" width="800"/>
 
 <img src="https://github.com/sergiopolimante/wheres-wally/blob/master/Resultados/github_images/resultado_rosto2.PNG" align="center" width="800"/>
+
